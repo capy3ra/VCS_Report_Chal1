@@ -1,7 +1,7 @@
 #!/bin/sh
-#DO MANH CUONG
 
-echo "Ten may:"
+echo "[Thong tin he thong]"
+echo "\nTen may:"
 whoami
 echo "\nPhien ban he dieu hanh:"
 lsb_release -a
